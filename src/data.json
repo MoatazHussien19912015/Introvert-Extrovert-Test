@@ -1,0 +1,51 @@
+[
+    {"id": "1",
+        "question": "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
+    "options": [
+        {"option":"Don’t dare to interrupt them", "degree": "introvert"},
+        {"option":"Think it’s more important to give them some of your time; work can wait", "degree": "semi-introvert"},
+        {"option":"Listen, but with only with half an ear", "degree": "semi-extrovert"},
+        {"option":"Interrupt and explain that you are really busy at the moment", "degree": "extrovert"}
+    ]
+    },
+    {"id": "2", "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+        "options": [
+            {"option":"Look at your watch every two minutes", "degree": "introvert"},
+            {"option":"Bubble with inner anger, but keep quiet", "degree": "semi-introvert"},
+            {"option":"Explain to other equally impatient people in the room that the doctor is always running late", "degree": "semi-extrovert"},
+            {"option":"Complain in a loud voice, while tapping your foot impatiently", "degree": "extrovert"}
+        ]
+        },
+        {"id": "3","question": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+            "options": [
+                {"option":"Don’t dare contradict them", "degree": "introvert"},
+                {"option":"Think that they are obviously right", "degree": "semi-introvert"},
+                {"option":"Defend your own point of view, tooth and nail", "degree": "semi-extrovert"},
+                {"option":"IContinuously interrupt your colleague", "degree": "extrovert"}
+            ]
+            },
+            {"id": "4","question": "Given the choice, I would prefer to:",
+                "options": [
+                    {"option":"have one or two very intimate friends, without getting acquainted with very many people", "degree": "introvert"},
+                    {"option":"get acquainted with some people and become intimate friends with a chosen few", "degree": "semi-introvert"},
+                    {"option":"get acquainted with a lot of people and become friends with a few", "degree": "semi-extrovert"},
+                    {"option":"get acquainted with a lot of people and become friends with as many as I can manage.", "degree": "extrovert"}
+                ]
+                },
+                {"id": "5","question": "At parties I:",
+                    "options": [
+                        {"option":"almost always leave as soon as I can", "degree": "introvert"},
+                        {"option":"usually leave as soon as I can", "degree": "semi-introvert"},
+                        {"option":"usually stay as late as I can", "degree": "semi-extrovert"},
+                        {"option":"almost always stay as late as I can", "degree": "extrovert"}
+                    ]
+                    },
+                    {"id": "6","question": "When I have free time I:",
+                        "options": [
+                            {"option":"almost always prefer to spend time alone", "degree": "introvert"},
+                            {"option":"usually prefer to spend time alone", "degree": "semi-introvert"},
+                            {"option":"usually prefer to do something with others", "degree": "semi-extrovert"},
+                            {"option":"almost always prefer to do something with others", "degree": "extrovert"}
+                        ]
+                        }
+]
